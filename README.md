@@ -9,7 +9,7 @@ Tecnologias utilizadas:
 - JavaScript
 - NodeJS
 
-![Alura Typer](https://imgur.com/c7QpEYk "Alura Typer")
+![Alura Typer](https://imgur.com/mhk6L5G)
 
 Antes de iniciar o jogo, é possível adicionar o seu nome como jogador, visualizar o placar e trocar frases. Após iniciar, cada frase terá o seu tempo de digitação. 
 
